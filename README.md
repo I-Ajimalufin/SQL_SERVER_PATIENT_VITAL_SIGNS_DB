@@ -29,7 +29,7 @@ Here's a screenshot of the output when the query is run on SQL Server:
 # Tools Used
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
-- Power BI (for visualization - optional)
+- Power BI (for visualization)
 - GitHub (for sharing)
 # Files in This Repo
 | File | Description |
